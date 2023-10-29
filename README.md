@@ -1,4 +1,4 @@
-# [Your Name]
+# Bishwajeet Patra
 
 Hello! 👋 I'm Bishwajeet Patra, and I'm passionate about Data Science, Machine Learning, NLP, Data analysis. I'm currently working as a Systems Engineer in Infosys Ltd.
 
